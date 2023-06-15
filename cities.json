@@ -1,0 +1,407 @@
+[
+  {
+    "cityName": "Adana",
+    "plateCode": "01",
+    "neighbours": ["Mersin", "Osmaniye", "Hatay", "Kahramanmaraş", "Niğde", "Kayseri"]
+  },
+  {
+    "cityName": "Adıyaman",
+    "plateCode": "02",
+    "neighbours": ["Gaziantep", "Şanlıurfa", "Diyarbakır", "Malatya","Kahramanmaraş"]
+  },
+  {
+    "cityName": "Afyonkarahisar",
+    "plateCode": "03",
+    "neighbours": ["Kütahya", "Uşak", "Denizli", "Burdur", "Isparta", "Eskişehir", "Konya"]
+  },
+  {
+    "cityName": "Ağrı",
+    "plateCode": "04",
+    "neighbours": ["Iğdır", "Kars", "Erzurum", "Muş", "Van"]
+  },
+  {
+    "cityName": "Amasya",
+    "plateCode": "05",
+    "neighbours": ["Tokat", "Samsun", "Çorum", "Yozgat"]
+  },
+  {
+    "cityName": "Ankara",
+    "plateCode": "06",
+    "neighbours": ["Kırıkkale", "Aksaray", "Kırşehir", "Eskişehir", "Bolu", "Çankırı", "Konya"]
+  },
+  {
+    "cityName": "Antalya",
+    "plateCode": "07",
+    "neighbours": ["Muğla", "Burdur", "Isparta", "Konya", "Mersin", "Karaman"]
+  },
+  {
+    "cityName": "Artvin",
+    "plateCode": "08",
+    "neighbours": ["Rize", "Erzurum", "Ardahan"]
+  },
+  {
+    "cityName": "Aydın",
+    "plateCode": "09",
+    "neighbours": ["Denizli", "Muğla", "İzmir", "Manisa"]
+  },
+  {
+    "cityName": "Balıkesir",
+    "plateCode": "10",
+    "neighbours": ["Çanakkale", "Bursa", "Manisa", "İzmir", "Kütahya"]
+  },
+  {
+    "cityName": "Bilecik",
+    "plateCode": "11",
+    "neighbours": ["Eskişehir", "Kütahya", "Bursa", "Sakarya", "Bolu"]
+  },
+  {
+    "cityName": "Bingöl",
+    "plateCode": "12",
+    "neighbours": ["Tunceli", "Elazığ", "Muş", "Erzurum","Diyarbakır"]
+  },
+  {
+    "cityName": "Bitlis",
+    "plateCode": "13",
+    "neighbours": ["Siirt", "Batman", "Muş", "Van","Ağrı"]
+  },
+  {
+    "cityName": "Bolu",
+    "plateCode": "14",
+    "neighbours": ["Düzce", "Zonguldak", "Karabük", "Ankara", "Eskişehir", "Sakarya","Çankırı", "Bilecik"]
+  },
+  {
+    "cityName": "Burdur",
+    "plateCode": "15",
+    "neighbours": ["Denizli", "Afyonkarahisar", "Isparta", "Antalya", "Muğla"]
+  },
+  {
+    "cityName": "Bursa",
+    "plateCode": "16",
+    "neighbours": ["Balıkesir", "Kocaeli", "Sakarya", "Bilecik", "Yalova","Kütahya"]
+  },
+  {
+    "cityName": "Çanakkale",
+    "plateCode": "17",
+    "neighbours": ["Balıkesir", "Tekirdağ", "Edirne"]
+  },
+  {
+    "cityName": "Çankırı",
+    "plateCode": "18",
+    "neighbours": ["Bolu", "Kırıkkale", "Çorum", "Karabük", "Ankara", "Kastamonu"]
+  },
+  {
+    "cityName": "Çorum",
+    "plateCode": "19",
+    "neighbours": ["Amasya", "Samsun", "Yozgat", "Kırıkkale", "Çankırı", "Kastamonu","Sinop"]
+  },
+  {
+    "cityName": "Denizli",
+    "plateCode": "20",
+    "neighbours": ["Muğla", "Burdur", "Aydın", "Uşak", "Manisa", "Afyonkarahisar"]
+  },
+  {
+    "cityName": "Diyarbakır",
+    "plateCode": "21",
+    "neighbours": ["Mardin", "Batman", "Elazığ", "Malatya", "Adıyaman", "Şanlıurfa","Bingöl", "Muş"]
+  },
+  {
+    "cityName": "Edirne",
+    "plateCode": "22",
+    "neighbours": ["Kırklareli", "Tekirdağ", "Çanakkale"]
+  },
+  {
+    "cityName": "Elazığ",
+    "plateCode": "23",
+    "neighbours": ["Malatya", "Diyarbakır", "Tunceli", "Bingöl"]
+  },
+  {
+    "cityName": "Erzincan",
+    "plateCode": "24",
+    "neighbours": ["Erzurum", "Bayburt", "Gümüşhane", "Giresun", "Sivas", "Tunceli","Bingöl","Malatya"]
+  },
+  {
+    "cityName": "Erzurum",
+    "plateCode": "25",
+    "neighbours": ["Ağrı", "Kars", "Ardahan", "Artvin", "Rize", "Bayburt", "Erzincan","Bingöl","Muş"]
+  },
+  {
+    "cityName": "Eskişehir",
+    "plateCode": "26",
+    "neighbours": ["Kütahya", "Bilecik", "Bolu", "Ankara", "Konya", "Afyonkarahisar"]
+  },
+  {
+    "cityName": "Gaziantep",
+    "plateCode": "27",
+    "neighbours": ["Kilis", "Hatay", "Osmaniye", "Adıyaman", "Şanlıurfa", "Kahramanmaraş"]
+  },
+  {
+    "cityName": "Giresun",
+    "plateCode": "28",
+    "neighbours": ["Ordu", "Trabzon", "Gümüşhane", "Erzincan", "Sivas"]
+  },
+  {
+    "cityName": "Gümüşhane",
+    "plateCode": "29",
+    "neighbours": ["Trabzon", "Bayburt", "Erzincan", "Giresun"]
+  },
+  {
+    "cityName": "Hakkâri",
+    "plateCode": "30",
+    "neighbours": ["Van", "Şırnak"]
+  },
+  {
+    "cityName": "Hatay",
+    "plateCode": "31",
+    "neighbours": ["Osmaniye", "Gaziantep", "Adana"]
+  },
+  {
+    "cityName": "Isparta",
+    "plateCode": "32",
+    "neighbours": ["Burdur", "Afyonkarahisar", "Antalya", "Konya"]
+  },
+  {
+    "cityName": "Mersin",
+    "plateCode": "33",
+    "neighbours": ["Adana", "Niğde", "Karaman", "Konya", "Antalya"]
+  },
+  {
+    "cityName": "İstanbul",
+    "plateCode": "34",
+    "neighbours": ["Tekirdağ", "Kocaeli","Kırklareli"]
+  },
+  {
+    "cityName": "İzmir",
+    "plateCode": "35",
+    "neighbours": ["Aydın", "Manisa", "Balıkesir"]
+  },
+  {
+    "cityName": "Kars",
+    "plateCode": "36",
+    "neighbours": ["Ağrı", "Iğdır", "Erzurum", "Ardahan"]
+  },
+  {
+    "cityName": "Kastamonu",
+    "plateCode": "37",
+    "neighbours": ["Sinop", "Çankırı", "Çorum", "Bartın", "Karabük"]
+  },
+  {
+    "cityName": "Kayseri",
+    "plateCode": "38",
+    "neighbours": ["Sivas", "Nevşehir", "Adana", "Kahramanmaraş", "Nigde", "Yozgat"]
+  },
+  {
+    "cityName": "Kırklareli",
+    "plateCode": "39",
+    "neighbours": ["Tekirdağ", "Edirne"]
+  },
+  {
+    "cityName": "Kırşehir",
+    "plateCode": "40",
+    "neighbours": ["Aksaray", "Ankara", "Nevşehir", "Yozgat", "Aksaray", "Kırıkkale"]
+  },
+  {
+    "cityName": "Kocaeli",
+    "plateCode": "41",
+    "neighbours": ["İstanbul", "Yalova", "Bursa", "Sakarya"]
+  },
+  {
+    "cityName": "Konya",
+    "plateCode": "42",
+    "neighbours": ["Aksaray", "Ankara", "Eskişehir", "Afyonkarahisar", "Isparta", "Antalya", "Mersin", "Niğde", "Karaman"]
+  },
+  {
+    "cityName": "Kütahya",
+    "plateCode": "43",
+    "neighbours": ["Uşak", "Afyonkarahisar", "Eskişehir", "Bilecik", "Bursa", "Balıkesir", "Manisa"]
+  },
+  {
+    "cityName": "Malatya",
+    "plateCode": "44",
+    "neighbours": ["Kahramanmaraş", "Adıyaman", "Elazığ", "Diyarbakır","Tunceli","Erzincan","Sivas"]
+  },
+  {
+    "cityName": "Manisa",
+    "plateCode": "45",
+    "neighbours": ["İzmir", "Balıkesir", "Kütahya", "Uşak", "Denizli", "Aydın"]
+  },
+  {
+    "cityName": "Kahramanmaraş",
+    "plateCode": "46",
+    "neighbours": ["Adana", "Osmaniye", "Gaziantep", "Adıyaman","Malatya", "Kayseri", "Sivas"]
+  },
+  {
+    "cityName": "Mardin",
+    "plateCode": "47",
+    "neighbours": ["Şırnak", "Siirt", "Batman","Diyarbakır","Şanlıurfa"]
+  },
+  {
+    "cityName": "Muğla",
+    "plateCode": "48",
+    "neighbours": ["Aydın", "Denizli", "Burdur", "Antalya"]
+  },
+  {
+    "cityName": "Muş",
+    "plateCode": "49",
+    "neighbours": ["Bingöl", "Diyarbakır", "Bitlis", "Ağrı", "Erzurum","Ağrı"]
+  },
+  {
+    "cityName": "Nevşehir",
+    "plateCode": "50",
+    "neighbours": ["Aksaray", "Kırşehir", "Yozgat", "Kayseri", "Niğde"]
+  },
+  {
+    "cityName": "Niğde",
+    "plateCode": "51",
+    "neighbours": ["Kayseri", "Nevşehir", "Aksaray", "Konya", "Mersin", "Adana"]
+  },
+  {
+    "cityName": "Ordu",
+    "plateCode": "52",
+    "neighbours": ["Giresun", "Sivas", "Tokat", "Samsun"]
+  },
+  {
+    "cityName": "Rize",
+    "plateCode": "53",
+    "neighbours": ["Artvin", "Erzurum", "Trabzon", "Bayburt"]
+  },
+  {
+    "cityName": "Sakarya",
+    "plateCode": "54",
+    "neighbours": ["Düzce", "Bolu", "Bilecik", "Bursa", "Kocaeli"]
+  },
+  {
+    "cityName": "Samsun",
+    "plateCode": "55",
+    "neighbours": ["Ordu", "Tokat", "Amasya", "Çorum", "Sinop"]
+  },
+  {
+    "cityName": "Siirt",
+    "plateCode": "56",
+    "neighbours": ["Bitlis", "Batman", "Mardin", "Şırnak","Van"]
+  },
+  {
+    "cityName": "Sinop",
+    "plateCode": "57",
+    "neighbours": ["Samsun", "Çorum", "Kastamonu"]
+  },
+  {
+    "cityName": "Sivas",
+    "plateCode": "58",
+    "neighbours": ["Kayseri", "Yozgat", "Tokat", "Ordu", "Giresun", "Erzincan", "Malatya","Kahramanmaraş"]
+  },
+  {
+    "cityName": "Tekirdağ",
+    "plateCode": "59",
+    "neighbours": ["Edirne", "Kırklareli", "Çanakkale", "İstanbul"]
+  },
+  {
+    "cityName": "Tokat",
+    "plateCode": "60",
+    "neighbours": ["Sivas", "Amasya", "Samsun", "Ordu","Yozgat"]
+  },
+  {
+    "cityName": "Trabzon",
+    "plateCode": "61",
+    "neighbours": ["Giresun", "Gümüşhane", "Bayburt", "Rize"]
+  },
+  {
+    "cityName": "Tunceli",
+    "plateCode": "62",
+    "neighbours": ["Elazığ","Bingöl", "Erzincan"]
+  },
+  {
+    "cityName": "Şanlıurfa",
+    "plateCode": "63",
+    "neighbours": ["Diyarbakır", "Adıyaman", "Gaziantep", "Mardin"]
+  },
+  {
+    "cityName": "Uşak",
+    "plateCode": "64",
+    "neighbours": ["Manisa", "Denizli", "Afyonkarahisar", "Kütahya"]
+  },
+  {
+    "cityName": "Van",
+    "plateCode": "65",
+    "neighbours": ["Bitlis", "Siirt", "Hakkari", "Ağrı"]
+  },
+  {
+    "cityName": "Yozgat",
+    "plateCode": "66",
+    "neighbours": ["Sivas", "Kayseri", "Nevşehir", "Kırşehir","Kırıkkale", "Çorum","Tokat"]
+  },
+  {
+    "cityName": "Zonguldak",
+    "plateCode": "67",
+    "neighbours": ["Bolu", "Karabük", "Bartın", "Düzce"]
+  },
+  {
+    "cityName": "Aksaray",
+    "plateCode": "68",
+    "neighbours": ["Konya", "Nevşehir", "Kırşehir", "Niğde"]
+  },
+  {
+    "cityName": "Bayburt",
+    "plateCode": "69",
+    "neighbours": ["Trabzon", "Gümüşhane", "Erzurum", "Erzincan","Rize"]
+  },
+  {
+    "cityName": "Karaman",
+    "plateCode": "70",
+    "neighbours": ["Konya", "Mersin", "Aksaray"]
+  },
+  {
+    "cityName": "Kırıkkale",
+    "plateCode": "71",
+    "neighbours": ["Ankara", "Çankırı", "Çorum", "Yozgat", "Kırşehir"]
+  },
+  {
+    "cityName": "Batman",
+    "plateCode": "72",
+    "neighbours": ["Siirt", "Mardin", "Diyarbakır","Muş", "Bitlis"]
+  },
+  {
+    "cityName": "Şırnak",
+    "plateCode": "73",
+    "neighbours": ["Siirt", "Mardin", "Hakkari","Van"]
+  },
+  {
+    "cityName": "Bartın",
+    "plateCode": "74",
+    "neighbours": ["Karabük", "Kastamonu", "Zonguldak"]
+  },
+  {
+    "cityName": "Ardahan",
+    "plateCode": "75",
+    "neighbours": ["Kars", "Artvin", "Erzurum"]
+  },
+  {
+    "cityName": "Iğdır",
+    "plateCode": "76",
+    "neighbours": ["Kars", "Ağrı"]
+  },
+  {
+    "cityName": "Yalova",
+    "plateCode": "77",
+    "neighbours": ["Bursa", "Kocaeli"]
+  },
+  {
+    "cityName": "Karabük",
+    "plateCode": "78",
+    "neighbours": ["Bolu", "Çankırı", "Ankara", "Zonguldak", "Bartın", "Kastamonu"]
+  },
+  {
+    "cityName": "Kilis",
+    "plateCode": "79",
+    "neighbours": ["Gaziantep", "Osmaniye"]
+  },
+  {
+    "cityName": "Osmaniye",
+    "plateCode": "80",
+    "neighbours": ["Hatay", "Gaziantep", "Kahramanmaraş", "Adana"]
+  },
+  {
+    "cityName": "Düzce",
+    "plateCode": "81",
+    "neighbours": ["Bolu", "Zonguldak", "Karabük"]
+  }
+]
